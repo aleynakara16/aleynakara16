@@ -3,14 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aleyna-kara">
-    <img src="https://img.shields.io/badge/LinkedIn-Aleyna%20Kara-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://portfolio-three-coral-95.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Istanbul-FF6F61?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/aleyna-kara">LinkedIn</a> ·
+  <a href="https://portfolio-three-coral-95.vercel.app/">Portfolio</a> ·
+  <span>Istanbul, TR</span>
 </p>
+
+
 
 ---
 
