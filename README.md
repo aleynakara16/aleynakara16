@@ -1,85 +1,85 @@
-# 👋 Hi, I'm Aleyna Kara
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aleyna+Kara+👋;Computer+Engineer;Frontend+%26+Mobile+Developer;Building+Scalable+Digital+Products" />
+</p>
 
-🎓 **Computer Engineer**  
-📍 Istanbul, Turkey  
-💻 Frontend & Mobile-focused Software Developer  
-🚀 Passionate about scalable products, AI-driven systems, and user-centered design  
-
----
-
-## 🧑‍💻 About Me
-
-I am a **Computer Engineering graduate** with hands-on experience in building **web and mobile applications** using modern JavaScript technologies.  
-I enjoy turning ideas into **production-ready digital products**, working in **Agile teams**, and continuously improving code quality and user experience.
-
-I have experience across the full development lifecycle — from **UI design** to **deployment**, and a strong interest in **AI-powered systems, automation, and data-driven applications**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/aleyna-kara">
+    <img src="https://img.shields.io/badge/LinkedIn-Aleyna%20Kara-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://portfolio-three-coral-95.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Istanbul-FF6F61?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 Tech Stack & Skills
+## ✨ About Me
 
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=fff)
+🎓 **Computer Engineer** with hands-on experience in **web & mobile application development**.  
+💡 Focused on **React, React Native, Node.js**, and modern JavaScript ecosystems.  
+🚀 Passionate about **AI-powered systems**, scalable architectures, and clean UI/UX.  
+
+I enjoy working in **Agile teams**, taking ownership of features end-to-end, and transforming complex ideas into **high-quality, production-ready products**.
 
 ---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs" />
+</p>
 
 ### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,nextjs,nodejs,express,redux,tailwind" />
+</p>
 
 ### 🗄️ Databases & APIs
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
+</p>
+
+### 🧰 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+  <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva" />
+</p>
 
 ---
 
-### 🛠️ Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Agile](https://img.shields.io/badge/Agile/Scrum-0052CC?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+## 🚀 Featured Projects
 
----
+### 📱 Plakapp — Cross-Platform Mobile App
+> **React Native · Node.js · MongoDB · Socket.IO**
 
-## 📌 Featured Projects
-
-### 📱 **Plakapp**
-**Full-Stack Core Developer**  
-- Cross-platform mobile app (iOS & Android) using **React Native**
-- Real-time chat & notifications with **Socket.IO**
-- Secure REST APIs with **Node.js & JWT**
+- Built a cross-platform mobile app (iOS & Android)
+- Implemented **real-time chat & notifications**
+- Developed secure RESTful APIs with **JWT authentication**
 - Currently expanding with **e-commerce features**
 
 ---
 
-### 🛣️ **Road Defect Detection System (Graduation Project)**
-- AI-powered system for detecting road defects (cracks & potholes)
-- Backend: **Python (Flask)**  
-- Frontend: **React Dashboard**
-- Deep Learning: **YOLOv8**
-- Database: **MongoDB**
+### 🛣️ Road Defect Detection System (Graduation Project)
+> **Python · Flask · React · YOLOv8 · MongoDB**
+
+- AI-powered system for detecting road defects in real time
+- Integrated deep learning model (**YOLOv8**)
+- Admin dashboard for analytics & reporting
+- Stored detection results for long-term analysis
 
 ---
 
 ## 💼 Experience
 
-- **Biri Teknoloji** — React Native Developer *(Oct 2025 – Present)*  
-- **Summit Tech** — Full-Stack Developer *(Apr 2024 – Oct 2025)*  
-- **Venhancer Technology** — Web Developer Intern  
-- **Arvis Technology** — AI R&D Intern  
+**Biri Teknoloji** — *React Native Developer*  
+**Summit Tech** — *Full-Stack Developer*  
+**Venhancer Technology** — *Web Developer Intern*  
+**Arvis Technology** — *AI Research & Development Intern*
 
 ---
 
@@ -89,17 +89,24 @@ I have experience across the full development lifecycle — from **UI design** t
 
 ---
 
-## 🤝 Volunteering & Activities
+## 🤝 Volunteering
 - Volunteer Teacher at **TOÇEV**
-- Member of **R&D Unit, SAU IHA Society**
+- R&D Member — **SAU IHA Society**
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: **aleynakara.16@hotmail.com**
-- 💼 LinkedIn: [linkedin.com/in/aleyna-kara](https://www.linkedin.com/in/aleyna-kara)
-- 🌐 Portfolio: [View Portfolio](https://portfolio-three-coral-95.vercel.app/)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALEYNA_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aleynakara16&theme=tokyonight" />
+</p>
 
 ---
 
-⭐️ *Feel free to explore my repositories and connect with me!*
+<p align="center">
+  ✨ <i>“Code with purpose, design with empathy.”</i> ✨
+</p>
