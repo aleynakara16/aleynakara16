@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aleyna+Kara+👋;Computer+Engineer;Frontend+%26+Mobile+Developer;Building+Scalable+Digital+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aleyna+Kara+👋;Computer+Engineer;Frontend+%26+Mobile+Developer;Building+Scalable+Digital+Products" />
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 ## ✨ About Me
 
-🎓 **Computer Engineer** with hands-on experience in **web & mobile application development**.  
-💡 Focused on **React, React Native, Node.js**, and modern JavaScript ecosystems.  
-🚀 Passionate about **AI-powered systems**, scalable architectures, and clean UI/UX.  
+🎓 **Computer Engineer** with hands-on experience in **web and mobile application development**.  
+💡 Specialized in **React, React Native, Node.js**, and modern JavaScript ecosystems.  
+🚀 Passionate about **AI-powered systems**, scalable architectures, and clean UI/UX design.
 
-I enjoy working in **Agile teams**, taking ownership of features end-to-end, and transforming complex ideas into **high-quality, production-ready products**.
+I enjoy working in **Agile teams**, taking ownership of features end-to-end, and transforming complex ideas into **high-quality, production-ready digital products**.
 
 ---
 
@@ -33,7 +33,12 @@ I enjoy working in **Agile teams**, taking ownership of features end-to-end, and
 
 ### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,nextjs,nodejs,express,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & APIs
@@ -55,31 +60,31 @@ I enjoy working in **Agile teams**, taking ownership of features end-to-end, and
 ## 🚀 Featured Projects
 
 ### 📱 Plakapp — Cross-Platform Mobile App
-> **React Native · Node.js · MongoDB · Socket.IO**
+**React Native · Node.js · MongoDB · Socket.IO**
 
-- Built a cross-platform mobile app (iOS & Android)
-- Implemented **real-time chat & notifications**
-- Developed secure RESTful APIs with **JWT authentication**
-- Currently expanding with **e-commerce features**
+- Developed a cross-platform mobile app (iOS & Android)
+- Implemented **real-time chat and notification systems**
+- Built secure RESTful APIs with **JWT authentication**
+- Currently expanding the platform with **e-commerce features**
 
 ---
 
 ### 🛣️ Road Defect Detection System (Graduation Project)
-> **Python · Flask · React · YOLOv8 · MongoDB**
+**Python · Flask · React · YOLOv8 · MongoDB**
 
-- AI-powered system for detecting road defects in real time
-- Integrated deep learning model (**YOLOv8**)
-- Admin dashboard for analytics & reporting
-- Stored detection results for long-term analysis
+- AI-powered system for detecting road defects (cracks & potholes)
+- Integrated deep learning model (**YOLOv8**) for real-time detection
+- Built an admin dashboard for analytics and reporting
+- Stored detection results for long-term tracking and insights
 
 ---
 
 ## 💼 Experience
 
-**Biri Teknoloji** — *React Native Developer*  
-**Summit Tech** — *Full-Stack Developer*  
-**Venhancer Technology** — *Web Developer Intern*  
-**Arvis Technology** — *AI Research & Development Intern*
+- **Biri Teknoloji** — React Native Developer  
+- **Summit Tech** — Full-Stack Developer  
+- **Venhancer Technology** — Web Developer Intern  
+- **Arvis Technology** — AI Research & Development Intern  
 
 ---
 
@@ -89,7 +94,7 @@ I enjoy working in **Agile teams**, taking ownership of features end-to-end, and
 
 ---
 
-## 🤝 Volunteering
+## 🤝 Volunteering & Activities
 - Volunteer Teacher at **TOÇEV**
 - R&D Member — **SAU IHA Society**
 
