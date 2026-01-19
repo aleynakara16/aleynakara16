@@ -74,28 +74,6 @@ I enjoy working in **Agile teams**, taking ownership of features end-to-end, and
 - Integrated deep learning model (**YOLOv8**) for real-time detection
 - Built an admin dashboard for analytics and reporting
 - Stored detection results for long-term tracking and insights
-
----
-
-## 💼 Experience
-
-- **Biri Teknoloji** — React Native Developer  
-- **Summit Tech** — Full-Stack Developer  
-- **Venhancer Technology** — Web Developer Intern  
-- **Arvis Technology** — AI Research & Development Intern  
-
----
-
-## 🌍 Languages
-- 🇹🇷 Turkish — Native  
-- 🇬🇧 English — B1 (Intermediate)
-
----
-
-## 🤝 Volunteering & Activities
-- Volunteer Teacher at **TOÇEV**
-- R&D Member — **SAU IHA Society**
-
 ---
 
 <p align="center">
