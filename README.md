@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aleyna-kara">LinkedIn</a> ·
-  <a href="https://portfolio-three-coral-95.vercel.app/">Portfolio</a> ·
   <span>Istanbul, TR</span>
 </p>
 
